@@ -1,1 +1,9 @@
-hello
+BOOK
+Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples, and Case Studies by John D. Kelleher, Brian Mac Namee, and Aoife D'Arcy
+
+MIT Press, 1st Edition. 2015
+
+Print ISBN: 9780262029445
+
+Access the book, Fundamentals of Machine Learning for Predictive Data AnalyticsLinks to an external site., for free from the BYU-I McKay Library. Bookmark it for easy access.
+https://ebookcentral.proquest.com/lib/byui/detail.action?docID=6246595
